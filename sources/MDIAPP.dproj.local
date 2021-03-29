@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017.06.21 11:01:54.502.pas,D:\wrk\PROJ\1\Unit1.pas=D:\wrk\PROJ\1\Scripts.pas</Transaction>
+    <Transaction>2017.06.21 15:20:48.088.pas,D:\wrk\PROJ\1\about.pas=</Transaction>
+    <Transaction>2017.06.21 15:20:48.088.dfm,D:\wrk\PROJ\1\about.dfm=</Transaction>
+    <Transaction>2017.06.21 15:20:52.929.PAS,D:\wrk\PROJ\1\CHILDWIN.PAS=</Transaction>
+    <Transaction>2017.06.21 15:20:52.929.dfm,D:\wrk\PROJ\1\CHILDWIN.dfm=</Transaction>
+    <Transaction>2017.06.23 14:00:13.165.pas,D:\wrk\PROJ\1\Unit1.pas=D:\wrk\PROJ\1\fixDBF.pas</Transaction>
+  </Transactions>
+</BorlandProject>
