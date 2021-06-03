@@ -8,3 +8,4 @@ examples  - утилиты для работы с БД
 
 mDBF.exe - dbase файлы;  mysqler.exe  - mysql
 
+- ditrix2006@gmail.com
